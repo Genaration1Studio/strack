@@ -1,0 +1,2 @@
+# strack
+ Mini Project Algorithm
